@@ -2,13 +2,13 @@
 title: "Ailton Martinez"
 email: ailtonmtz@gmail.com
 description: "My primer blog personal"
-baseurl: ""
+#baseurl: ""
 url: "https://ailtonmz.github.io/"
-title_description: "Bienvenido a mi blog Soy un estudiante con sólidos conocimientos en cloud computing y sus diferentes áreas específicas: servidores, base de datos, mejoramiento y mantenimiento de sistemas, así como en fundamentos administrativos."
-title_image: "https://scontent.fver2-1.fna.fbcdn.net/v/t39.30808-6/273994435_1683542191977732_7005859142379511699_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGweaWQ2DD2PweCb5iMQJlcUe5Ua7TTrz5R7lRrtNOvPrjQVGFtXL2F-SxUx6S8ekZ8_3rw_dk_N9pgztnvrNI6&_nc_ohc=lxQAuanJYpAAX8r0JxB&_nc_ht=scontent.fver2-1.fna&oh=00_AT86wrORXRA9Rki_MegcmIDQHwWBiet4xQC5IjvJqQwM-Q&oe=62443FDD"
+title_description: "Bienvenido a mi blog Soy un estudiante con sólidos conocimientos en cloud computing y sus diferentes áreasento de sistemas."
+title_image: "https://github.com/account"
 google_analytics: "UA-20365477-4"
 #disqus_account: cartenoire
-github_repository: https://github.com/ailtonmz/carte-noire
+github_repository: https://github.com/ailtonmz/ailtonmz.github.io
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
