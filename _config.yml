@@ -1,16 +1,16 @@
 # Site settings
-title: "Ailton Martinez"
+title: "Ailton Mtz"
 email: ailtonmtz@gmail.com
 description: "My primer blog personal"
 #baseurl: ""
 url: "https://ailtonmz.github.io/"
-title_description: "Bienvenido a mi blog personal, disfruta de tu estadia."
-title_image: "https://avatars.githubusercontent.com/u/102365402?s=400&u=2b8a74c891b6e957bb37dfb7aa42ac76794a3512&v=4"
+title_description: "Soy un estudiante con sólidos conocimientos en cloud computing y sus diferentes áreas específicas: servidores, base de datos, mejoramiento y mantenimiento de sistemas, así como en fundamentos administrativos."
+title_image: "https://avatars.githubusercontent.com/u/102365402?s=96&v=4"
 google_analytics: "UA-20365477-4"
 #disqus_account: cartenoire
 github_repository: https://github.com/ailtonmz/ailtonmz.github.io
 addthis_id: ra-513c6fa83da6ec67
-post_limit: 5
+post_limit: 9
 
 # Social usernames/URLs
 twitter_username: _jacobtomlinson
