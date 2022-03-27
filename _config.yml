@@ -2,7 +2,7 @@
 title: "Ailton Mtz"
 email: ailtonmtz@gmail.com
 description: "My primer blog personal"
-#baseurl: ""
+baseurl: "https://github.com/ailtonmz/ailtonmz.github.io/blob/gh-pages/assets/avatar.png"
 url: "https://ailtonmz.github.io/"
 title_description: "Los retos son regalos que nos obligan a buscar un nuevo centro de gravedad. No luches contra ellos. Simplemente encuentra una nueva forma de mantenerte en pie."
 title_image: "assets/mifoto.jpg"
