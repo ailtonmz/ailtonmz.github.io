@@ -14,18 +14,18 @@ addthis_id: ra-513c6fa83da6ec67
 post_limit: 9
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
+#twitter_username: _jacobtomlinson
 github_username:  ailtonmz
 instagram_username: 
-reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+#reddit_username: 
+linkedin_link: https://ailtonmz.github.io/
+google_plus_link: https://ailtonmz.github.io/
+stackoverflow_link: https://ailtonmz.github.io/
 xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">AiltonMartinez</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
