@@ -5,7 +5,7 @@ description: "My primer blog personal"
 #baseurl: ""
 url: "https://ailtonmz.github.io/"
 title_description: "Soy un estudiante con sólidos conocimientos en cloud computing y sus diferentes áreas específicas: servidores, base de datos, mejoramiento y mantenimiento de sistemas, así como en fundamentos administrativos."
-title_image: "assets/perfil.png"
+title_image: "perfil.png"
 #portfolio_image: "assets/portfolio.png"
 google_analytics: "UA-20365477-4"
 #disqus_account: cartenoire
