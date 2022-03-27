@@ -5,7 +5,7 @@ description: "My primer blog personal"
 #baseurl: ""
 url: "https://ailtonmz.github.io/"
 title_description: "Soy un estudiante con sólidos conocimientos en cloud computing y sus diferentes áreas específicas: servidores, base de datos, mejoramiento y mantenimiento de sistemas, así como en fundamentos administrativos."
-title_image: "assets/perfil.png"
+title_image: "mifoto.jpg"
 #portfolio_image: "assets/portfolio.png"
 google_analytics: "UA-20365477-4"
 #disqus_account: cartenoire
@@ -19,13 +19,13 @@ github_username:  ailtonmz
 instagram_username: 
 #reddit_username: 
 linkedin_link: https://ailtonmz.github.io/
-google_plus_link: https://ailtonmz.github.io/
-stackoverflow_link: https://ailtonmz.github.io/
-xing_link:
-facebook_link:
+#google_plus_link: https://ailtonmz.github.io/
+#stackoverflow_link: https://ailtonmz.github.io/
+#xing_link:
+facebook_link: https://github.com/ailtonmz
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">AiltonMartinez</a>"
+footer_left: "Creado por <i class=\"fa fa-heart\"></i> by <a href=\"https://github.com/ailtonmz\">AiltonMartinez</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
